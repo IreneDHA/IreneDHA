@@ -1,13 +1,14 @@
-# Hello Hello, Irene here 👋 
+<h3 align="center">
 
-<a href="https://www.credly.com/badges/bfb45f4f-ca50-4723-934f-8062de9c4f91/public_url">
-<img width="90" align="right"
-src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image.png"/>
-</a>
+  Hi 👋, Irene here!
 
-![visitors](https://komarev.com/ghpvc/?username=IreneDHA&label=visitors&color=red&style=plastic)
+  ![header](https://github.com/cbueno82/cbueno82/blob/main/freelance_banner.png)
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cbueno82&label=Profile%20Views&color=4CAF50&style=flat" alt="profile views"/>
+</p>
+
+</h3>
 
 ## About Me
 
