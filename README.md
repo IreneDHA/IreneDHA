@@ -13,19 +13,18 @@ src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image
 
 ## About Me
 
-I am a **Junior Data Analyst** focused on **Natural Language Processing (NLP)** and analytical workflow development.
-
-I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and data visualisation tools to build structured and reproducible pipelines.
-
+**Freelance Junior Data Analyst** focused on transforming raw data into clear insights that support better decision-making. I’m particularly interested in data exploration, reporting automation and building dashboards that **help teams understand what is happening in their data**. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
 <br clear="left"/>
 
 ---
 
-#### Interests
+## What I can help you with
 
-- **Open Source Contribution**
-- **Gaming** — The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil
-- **Design** — Web Design, Level Design, Character Design, Scripting
+• Data cleaning and transformation  
+• Exploratory data analysis  
+• Dashboard development (Power BI / Tableau)  
+• Reporting automation  
+• Data storytelling for business insights
 
 ---
 
@@ -62,7 +61,6 @@ I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and data visual
 </a>
 
 </p>
----
 
 ## Credits
 
