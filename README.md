@@ -90,7 +90,7 @@
 </table>
 
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="600"/>
 </a>
 
 </p>
