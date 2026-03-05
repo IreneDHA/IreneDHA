@@ -1,4 +1,24 @@
 # Hello Hello, Irene here 👋 
+
+<table>
+<tr>
+
+<td width="160">
+<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="150">
+</td>
+
+<td>
+
+## About Me
+
+I am a **Junior Data Analyst** focused on **Natural Language Processing (NLP)** and analytical workflow development.
+
+I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, building structured pipelines for text and structured datasets.
+
+</td>
+
+</tr>
+</table>
 <a href="https://www.credly.com/badges/bfb45f4f-ca50-4723-934f-8062de9c4f91/public_url">
 <img width="90" align="right"
 src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image.png"/>
