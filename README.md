@@ -8,8 +8,8 @@ src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image
 
 <br>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="100"/>
+<p align="right">
+<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="200"/>
 </p>
 
 ---
@@ -58,17 +58,13 @@ I mainly work with **Python, Pandas, spaCy, scikit-learn, SQL**, and data visual
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/>
 </a>
 
+<br>
+
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
 </a>
 
 </p>
-
----
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IreneDHA&show_icons=true&count_private=true&title_color=5c0f1f&text_color=f3e8da&icon_color=5c0f1f&bg_color=0d1117&hide_border=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IreneDHA&layout=compact&title_color=5c0f1f&text_color=f3e8da&bg_color=0d1117&hide_border=true)
 
 ---
 
