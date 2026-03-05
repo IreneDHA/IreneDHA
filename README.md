@@ -7,6 +7,13 @@ src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image
 ![visitors](https://komarev.com/ghpvc/?username=IreneDHA&label=visitors&color=red&style=plastic)
 
 ![header](https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6)
+<br>
+
+<p align="right">
+<img src="URL" width="400"/>
+</p>
+
+<br>
 
 ---
 
