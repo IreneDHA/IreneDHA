@@ -1,24 +1,9 @@
-## Hi there 👋
-
-<!--
-**IreneDHA/IreneDHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello there 👋   <a href="https://www.credly.com/badges/0b3f0226-7344-412a-8769-6e5c4dc4fd61/public_url"><img width ="90" src="https://user-images.githubusercontent.com/59575502/209929512-9928d108-855e-4634-bff3-a6721b524681.png" align="right"></a> <a href="https://learn.microsoft.com/api/credentials/share/en-us/thesaravanakumar/A39FE99D04709FE0?sharingId=7CCEC440A0B410A7"><img width ="90" src="https://github.com/thesaravanakumar/thesaravanakumar/assets/59575502/e00a95f9-d71b-422e-9ada-e2a724262def" align="right"></a> <a href="https://www.credential.net/41bc5a7f-4c35-4f98-8b60-c5ae4156edbd"><img width ="90" src="https://user-images.githubusercontent.com/59575502/209929127-6b01b76d-b1f0-40c7-b3e9-9486b7931d35.png" align="right"></a> <a href="https://www.credly.com/badges/63fb8cd4-afce-4b35-a9a0-e12c9eeff7a9/public_url"><img width ="90" src="https://user-images.githubusercontent.com/59575502/235377917-2ac730dc-1fbe-4243-b04a-875f9a984506.png" align="right"></a> <a href="https://www.credly.com/badges/655073a2-c2c4-46a8-8a95-ea7cc2427504/public_url"><img width ="90" src="https://github.com/user-attachments/assets/7ae0c8fe-96a2-44de-892e-165a4bc96b7c" align="right"></a>
 
 ![visitors](https://komarev.com/ghpvc/?username=IreneDHA&label=visitors&color=blue&style=plastic)
 
   <a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="linkedin" align="left"></a><a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="facebook" align="left"></a>
+
 
 
 
@@ -58,9 +43,9 @@ Here are some ideas to get you started:
 
 <h3 align="right">
 
-  Welcome, I'm Clara
+  Welcome, I'm Irene
 
-  ![header](https://github.com/cbueno82/cbueno82/blob/main/banner.png)
+  ![header](![portrait](https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cbueno82&label=Profile%20Views&color=4CAF50&style=flat" alt="profile views"/>
@@ -110,7 +95,7 @@ You can reach me here:
   <a href="mailto:irene.hoz.atero@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="26" height="26" alt="Email" />
   </a>
-
+</p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/irene-de-hoz-atero/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="26" height="26" alt="LinkedIn" />
@@ -120,7 +105,7 @@ You can reach me here:
 </p>
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IreneDHA&count_private=true&hide_border=true&show_icons=true&title_color=5c0f1f&text_color=f3e8da&icon_color=5c0f1f&bg_color=0d1117&hide_border=true) | <a href="https://github.com/IreneDHA"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneDHA&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&title_color=5c0f1f&text_color=f3e8da&bg_color=0d1117&hide_border=true" height="192px"/></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IreneDHA&count_private=true&show_icons=true&title_color=5c0f1f&text_color=f3e8da&icon_color=5c0f1f&bg_color=0d1117&hide_border=true) | <a href="https://github.com/IreneDHA"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneDHA&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&title_color=5c0f1f&text_color=f3e8da&bg_color=0d1117&hide_border=true" height="192px"/></a>
 
 ## Credits  
 Template adapted from  
