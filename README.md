@@ -57,14 +57,11 @@ I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and data visual
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/>
 </a>
 
-<br>
-
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
 </a>
 
 </p>
-
 ---
 
 ## Credits
