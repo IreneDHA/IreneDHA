@@ -10,7 +10,7 @@
 
 </h3>
 
-## About Me
+# About Me
 
 **Freelance Junior Data Analyst** focused on transforming raw data into clear insights that support better decision-making. I’m particularly interested in data exploration, reporting automation and building dashboards that **help teams understand what is happening in their data**. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
 <br clear="left"/>
@@ -25,9 +25,13 @@
 • Reporting automation  
 • Data storytelling for business insights
 
+<br>
+
+📊 **Portfolio:** View my freelancer services 
+📄 **CV:** Download my CV
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -47,22 +51,24 @@
 
 ---
 
-# Contact
+# Let's Work Together
 
+Ready to make your data work for you?
 <p align="left">
 
 <a href="mailto:irene.hoz.atero@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" style="margin-right:24px;"/>
 </a>
-
 
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" style="margin-right:24px;"/>
 </a>
 
+<a href="https://www.freelancer.es/u/Irenedehoz">
+<img src="https://cdn.simpleicons.org/freelancer" width="28" style="margin-right:24px;"/>
+</a>
+
+<a href="https://es.fiverr.com/s/5r2gVa3">
+<img src="https://cdn.simpleicons.org/fiverr" width="28" style="margin-right:24px;"/>
+</a>
 </p>
-
-## Credits
-
-Template adapted from  
-**https://github.com/thesaravanakumar**
