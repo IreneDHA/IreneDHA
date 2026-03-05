@@ -9,8 +9,6 @@ src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="150" align="left">
-
 ## About Me
 
 **Freelance Junior Data Analyst** focused on transforming raw data into clear insights that support better decision-making. I’m particularly interested in data exploration, reporting automation and building dashboards that **help teams understand what is happening in their data**. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
