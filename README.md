@@ -25,10 +25,10 @@
 • Reporting automation  
 • Data storytelling for business insights
 
-<br>
+<br> 
 
-📊 **Portfolio:** View my freelancer services 
-📄 **CV:** Download my CV
+[![Portfolio](https://img.shields.io/badge/View-Freelancer_Portfolio-5c0f1f?style=for-the-badge)](Eng_Data_Portfolio_IreneDHA.pdf)
+[![CV](https://img.shields.io/badge/Download-Tech_CV-5c0f1f?style=for-the-badge)](IreneDeHozAtero_eng_CV.pdf)
 ---
 
 ## Tech Stack
