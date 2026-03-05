@@ -2,7 +2,7 @@
 
   Hi 👋, Irene here!
 
-  ![header](https://github.com/cbueno82/cbueno82/blob/main/freelance_banner.png)
+  ![header](freelance_banner.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cbueno82&label=Profile%20Views&color=4CAF50&style=flat" alt="profile views"/>
