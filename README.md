@@ -5,7 +5,7 @@
   ![header](freelance_banner.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cbueno82&label=Profile%20Views&color=4CAF50&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=IreneDHA&label=Profile%20Views&color=red&style=flat" alt="profile views"/>
 </p>
 
 </h3>
@@ -54,6 +54,40 @@
 <a href="mailto:irene.hoz.atero@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/>
 </a>
+
+<table>
+<tr>
+
+<td width="160">
+  ![header](freelance_banner.png)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IreneDHA&label=Profile%20Views&color=red&style=flat" alt="profile views"/>
+</p>
+</td>
+
+<td>
+
+# Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="32"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/>
+
+</td>
+
+</tr>
+</table>
 
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
