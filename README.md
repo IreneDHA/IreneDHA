@@ -61,9 +61,6 @@
 <td width="600">
   ![header](freelance_banner.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IreneDHA&label=Profile%20Views&color=red&style=flat" alt="profile views"/>
-</p>
 </td>
 
 <td>
@@ -83,7 +80,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/>
-
+<td width="150">
 </td>
 
 </tr>
