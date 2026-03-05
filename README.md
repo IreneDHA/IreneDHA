@@ -2,7 +2,7 @@
 
   Hi 👋, Irene here!
 
-  ![header](freelance_banner.png)
+  ![header](banner.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IreneDHA&label=Profile%20Views&color=red&style=flat" alt="profile views"/>
