@@ -9,7 +9,7 @@ src="https://images.credly.com/images/1c6dd0ba-6ab5-4dae-a6d5-47c85ec041e8/image
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="650"/>
+<img src="https://github.com/user-attachments/assets/3dc81748-de6a-4cae-966b-9c4c78c512e6" width="100"/>
 </p>
 
 ---
