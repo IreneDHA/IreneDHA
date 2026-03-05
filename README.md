@@ -62,9 +62,9 @@ I mainly work with **Python, Pandas, spaCy, scikit-learn, SQL**, and data visual
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IreneDHA&count_private=true&show_icons=true&title_color=5c0f1f&text_color=f3e8da&icon_color=5c0f1f&bg_color=0d1117&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IreneDHA&show_icons=true&count_private=true&title_color=5c0f1f&text_color=f3e8da&icon_color=5c0f1f&bg_color=0d1117&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneDHA&layout=compact&title_color=5c0f1f&text_color=f3e8da&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IreneDHA&layout=compact&title_color=5c0f1f&text_color=f3e8da&bg_color=0d1117&hide_border=true)
 
 ---
 
