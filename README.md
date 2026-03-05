@@ -58,7 +58,7 @@
 <table>
 <tr>
 
-<td width="160">
+<td width="600">
   ![header](freelance_banner.png)
 
 <p align="center">
@@ -90,7 +90,7 @@
 </table>
 
 <a href="https://www.linkedin.com/in/irene-de-hoz-atero/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="600"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="150"/>
 </a>
 
 </p>
