@@ -5,14 +5,14 @@
   ![header](banner.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IreneDHA&label=Profile%20Views&color=red&style=flat" alt="profile views"/>
+  # Bringing people and companies closer together
 </p>
 
 </h3>
 
 # About Me
 
-**Freelance Junior Data Analyst** focused on transforming raw data into clear insights that support better decision-making. I’m particularly interested in data exploration, reporting automation and building dashboards that **help teams understand what is happening in their data**. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
+**Freelance People Analyst** focused on transforming raw data into clear insights that support better decision-making. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
 <br clear="left"/>
 
 ---
