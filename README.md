@@ -1,16 +1,12 @@
 <h3 align="center">
 
   Hi 👋, Irene here!
-
-  ![header](banner.png)
-
-<p align="center">
-  # Bringing people and companies closer together
 </p>
 
 </h3>
 
-# About Me
+# Bringing people and companies closer together
+## About Me
 
 **Freelance People Analyst** focused on transforming raw data into clear insights that support better decision-making. With a background in communication and storytelling, I aim to translate complex datasets into clear analyses and visual narratives that are easy to interpret and act upon.
 <br clear="left"/>
